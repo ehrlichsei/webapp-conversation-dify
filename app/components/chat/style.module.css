@@ -1,6 +1,6 @@
 .answerIcon {
   position: relative;
-  background: url(./icons/robot.svg);
+  background: url(./icons/levi.jpg);
 }
 
 .typeingIcon {
@@ -19,7 +19,7 @@
 
 
 .questionIcon {
-  background: url(./icons/default-avatar.jpg);
+  background: url(./icons/kitty.jpg);
   background-size: contain;
   border-radius: 50%;
 }
